@@ -1,0 +1,76 @@
+h3.sibtitle {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+}
+
+p {
+    line-height: 20px;
+}
+
+li {
+    line-height: 22px;
+}
+
+h5 {
+    margin-top: 9px;
+    margin-bottom: 9px;
+    font-weight: bold;
+}
+
+.sibocs {
+    margin-bottom: 20px;
+}
+
+input.sib-radio {
+    float: left;
+    margin-right: 5px;
+    top: -2px;
+}
+
+input.ocs-check {
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+button.ocs-tooltip {
+    font-size: 10px;
+    background: #1e91cf;
+    border: 1px solid #197bb0;
+    border-radius: 2px;
+    color: #fff;
+    height: 20px;
+    width: 20px;
+    margin-left: 5px;
+}
+
+ul.logged {
+    padding-top: 5px;
+    line-height: 1.7;
+    padding-left: 0px;
+}
+
+span.help {
+    padding-top: 5px;
+    font-style: italic;
+    float: left;
+}
+
+.row.row-eq-height {
+    border-top: 1px dashed #ddd;
+    margin-top: 5px;
+    padding-top: 5px;
+}
+
+.row.row-eq-height .col-xs-6.col-md-4 {
+    padding-top: 10px;
+}
+
+i:before {
+    font: normal normal normal 14px/1 FontAwesome !important;
+}
+
+.fa {
+    font-family: 'Open Sans', sans-serif;
+}
